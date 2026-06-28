@@ -4,4 +4,4 @@ Quick messure of powerdemands - about 32mA at tx at test freq wspr 21Mhz into a 
 
 PCB have been altered and the clk1 have been routed to the pcb
 
-The original ict fw works on this pcb as only difference is the extra clk line
+My original ict fw works on this pcb as only difference is the extra clk line
