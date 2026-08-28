@@ -6,6 +6,8 @@ PCB have been altered and the clk1 have been routed to the pcb
 
 My original ict fw works on this pcb as only difference is the extra clk line
 
+All setup is same as this: https://github.com/micked99/ICT-Wspr-complete-setup
+
 This is V2 of the 180° pcb, tested and working
 
 <img width="3000" height="4000" alt="180deg-pcb" src="https://github.com/user-attachments/assets/d3f44bce-90e3-4e5e-9a07-73b533ae37f8" />
